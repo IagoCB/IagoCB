@@ -6,7 +6,7 @@
 
 - My name is Iago Luiz da Cruz Barbosa
 - I'm studying Software Engineering at [Inatel](https://inatel.br/home/)
-- Currently working as a Full Stack Developer at Nouvenn
+- Currently working as a Full Stack Developer at IHM Stefanini
 
 <div align="center">
     <a href="https://www.linkedin.com/in/iagocb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
